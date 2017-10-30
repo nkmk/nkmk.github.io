@@ -1,6 +1,6 @@
 ### Links
 - [GitHub](https://github.com/nkmk)
-- [blog](https://nkmk.github.io/blog/)
+- [Web site](https://nkmk.me)
 
 ### Atom package
 - [remove-whitespace](https://atom.io/packages/remove-whitespace)
